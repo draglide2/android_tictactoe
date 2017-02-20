@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="btn_start">START GAME</string>
+    <string name="btn_score">HIGHSCORE</string>
+    <string name="btn_about">ABOUT</string>
+    <string name="txt_about">Készítette: Papp János</string>
+    <string name="highscore">Highscore: </string>
+    <string name="circleWon">Circle has won the game!</string>
+    <string name="crossWon">Cross has won the game!</string>
+    <string name="tie">Its a tie!</string>
+</resources>
